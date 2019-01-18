@@ -6,4 +6,4 @@ This is the 8th Project for Treehouse FrontEnd Techdegree. It's about using a Fe
 - Access this project live at http://dilipagheda.com/employee_directory_v1/
 
 # Skills gained
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Fetch API, parsing JSON
